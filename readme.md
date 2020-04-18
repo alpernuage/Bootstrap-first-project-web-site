@@ -1,4 +1,4 @@
-CLICK BELOW TO SEE THE PROJECT
+CLICK HERE TO SEE THE PROJECT
 https://alpernuage.github.io/Bootstrap-first-project-web-site/
 
 
